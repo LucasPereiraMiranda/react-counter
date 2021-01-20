@@ -1,8 +1,8 @@
-# Project
+# Aplicação
 
-Projeto de um contador criado para praticar o React e aprender sobre hooks.
+Aplicação de um contador criado para praticar o React e aprender sobre hooks.
 
-Projeto inicializado com o [Create React App](https://github.com/facebook/create-react-app).
+Aplicação inicializada com o [Create React App](https://github.com/facebook/create-react-app).
 
 ## Execução
 
