@@ -1,4 +1,4 @@
-# Poject
+# Project
 
 Projeto de um contador criado para praticar o React e aprender sobre hooks.
 
