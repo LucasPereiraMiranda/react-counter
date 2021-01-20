@@ -1,6 +1,6 @@
 # Poject
 
-Projeto de um contador simples criado para praticar e aprender sobre os hooks useState e useCallback.
+Projeto de um contador criado para praticar o React e aprender sobre hooks.
 
 Projeto inicializado com o [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,12 +8,11 @@ Projeto inicializado com o [Create React App](https://github.com/facebook/create
 
 ### `yarn`
 
-Construir dependencias gerando o node_modules
+Construir dependências, com a finalidade de gerar a pasta node_modules
 
 ### `yarn start`
 
-Executar o app em modo de desenvolvimento.\
-Será executado em [http://localhost:3000](http://localhost:3000).
+Executa o app em modo de desenvolvimento.
 
 ## Documentação React
 
